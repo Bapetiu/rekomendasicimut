@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: rekomendasicimut
+  repo: Bapetiu/rekomendasicimut
   branch: main
 
 media_folder: "images"
